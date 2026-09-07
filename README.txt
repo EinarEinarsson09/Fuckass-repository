@@ -1,1 +1,1 @@
-I denne branchen så har vi lagget "feature/innhold" som innholder alt av funksjoner til nettsiden.
+I denne branchen så har vi laget "feature/innhold" som innholder alt av funksjoner til nettsiden.
